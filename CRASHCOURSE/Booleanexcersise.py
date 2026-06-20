@@ -59,3 +59,4 @@ else:
 # 18. Check whether a string called my_string is all in lowercase
 my_string = "example"
 my_string.islower()  # Result: True
+
